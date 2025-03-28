@@ -4,5 +4,5 @@ for i in range(5):
     print(i)
     emptylst.append(i)
 print(sum(emptylst))
-print("nigga")
+print("hi bro")
     
